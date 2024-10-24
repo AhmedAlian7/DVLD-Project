@@ -1,0 +1,18 @@
+C:\Users\Jehad\Desktop\New folder\People-BusinessLayer\bin\Debug\People-BusinessLayer.dll
+C:\Users\Jehad\Desktop\New folder\People-BusinessLayer\bin\Debug\People-BusinessLayer.pdb
+C:\Users\Jehad\Desktop\New folder\People-BusinessLayer\bin\Debug\People-DataAccessLayer.dll
+C:\Users\Jehad\Desktop\New folder\People-BusinessLayer\bin\Debug\People-DataAccessLayer.pdb
+C:\Users\Jehad\Desktop\New folder\People-BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Jehad\Desktop\New folder\People-BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Jehad\Desktop\New folder\People-BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Jehad\Desktop\New folder\People-BusinessLayer\obj\Debug\People-BusinessLayer.dll
+C:\Users\Jehad\Desktop\New folder\People-BusinessLayer\obj\Debug\People-BusinessLayer.pdb
+C:\DVLDProjectBackup\People-BusinessLayer\bin\Debug\People-BusinessLayer.dll
+C:\DVLDProjectBackup\People-BusinessLayer\bin\Debug\People-BusinessLayer.pdb
+C:\DVLDProjectBackup\People-BusinessLayer\bin\Debug\People-DataAccessLayer.dll
+C:\DVLDProjectBackup\People-BusinessLayer\bin\Debug\People-DataAccessLayer.pdb
+C:\DVLDProjectBackup\People-BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\DVLDProjectBackup\People-BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\DVLDProjectBackup\People-BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+C:\DVLDProjectBackup\People-BusinessLayer\obj\Debug\People-BusinessLayer.dll
+C:\DVLDProjectBackup\People-BusinessLayer\obj\Debug\People-BusinessLayer.pdb
