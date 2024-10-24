@@ -1,0 +1,12 @@
+C:\Users\Jehad\Desktop\New folder\People-DataAccessLayer\bin\Debug\People-DataAccessLayer.dll
+C:\Users\Jehad\Desktop\New folder\People-DataAccessLayer\bin\Debug\People-DataAccessLayer.pdb
+C:\Users\Jehad\Desktop\New folder\People-DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Jehad\Desktop\New folder\People-DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Jehad\Desktop\New folder\People-DataAccessLayer\obj\Debug\People-DataAccessLayer.dll
+C:\Users\Jehad\Desktop\New folder\People-DataAccessLayer\obj\Debug\People-DataAccessLayer.pdb
+C:\DVLDProjectBackup\People-DataAccessLayer\bin\Debug\People-DataAccessLayer.dll
+C:\DVLDProjectBackup\People-DataAccessLayer\bin\Debug\People-DataAccessLayer.pdb
+C:\DVLDProjectBackup\People-DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\DVLDProjectBackup\People-DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\DVLDProjectBackup\People-DataAccessLayer\obj\Debug\People-DataAccessLayer.dll
+C:\DVLDProjectBackup\People-DataAccessLayer\obj\Debug\People-DataAccessLayer.pdb
