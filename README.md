@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/815540e4-884e-4503-8d5a-cef9318a69d5)# Driver License Management System
+# Driver License Management System
 
 ## Overview
 The **Driver License Management System** is a comprehensive application designed to manage driver profiles and facilitate the issuance, renewal, and management of driving licenses. The system provides a user-friendly interface for both administrative users and applicants to efficiently navigate various license-related processes.
